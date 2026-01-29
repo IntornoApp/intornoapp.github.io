@@ -1,0 +1,25 @@
+{
+    "name": "Intorno",
+    "short_name": "Intorno",
+    "description": "Intorno is coming soon. An innovative experience that will transform the way you interact with the world around you.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fbfbfd",
+    "theme_color": "#fbfbfd",
+    "orientation": "portrait-primary",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
